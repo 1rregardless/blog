@@ -1,4 +1,4 @@
 baseURL = 'https://blog.regardless.cc/'
 languageCode = 'en-us'
 title = 'Less blog, more work'
-theme = 'risotto'
+theme = 'hugo-ficurinia'

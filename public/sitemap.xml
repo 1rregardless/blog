@@ -17,6 +17,10 @@
   </url><url>
     <loc>https://blog.regardless.cc/categories/</loc>
   </url><url>
+    <loc>https://blog.regardless.cc/manifest/index.json</loc>
+  </url><url>
+    <loc>https://blog.regardless.cc/search/</loc>
+  </url><url>
     <loc>https://blog.regardless.cc/tags/</loc>
   </url>
 </urlset>

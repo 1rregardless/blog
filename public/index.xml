@@ -1,20 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><?xml-stylesheet href="/feed_style.xsl" type="text/xsl"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="https://www.rssboard.org/media-rss">
   <channel>
     <title>Less blog, more work</title>
     <link>https://blog.regardless.cc/</link>
     <description>Recent content on Less blog, more work</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Jan 2023 11:13:50 -0800</lastBuildDate><atom:link href="https://blog.regardless.cc/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 22 Jan 2023 11:13:50 -0800</lastBuildDate><atom:link href="https://blog.regardless.cc/index.xml" rel="self" type="application/rss+xml" /><icon>https://blog.regardless.cc/img/icon.svg</icon>
+    
+    
     <item>
       <title>First Post</title>
       <link>https://blog.regardless.cc/first-post/</link>
       <pubDate>Sun, 22 Jan 2023 11:13:50 -0800</pubDate>
       
       <guid>https://blog.regardless.cc/first-post/</guid>
-      <description>People seem to not like first past the post voting I will gather my thoughts on the subject</description>
+      <description><![CDATA[<h1 id="people-seem-to-not-like-first-past-the-post-voting">People seem to not like first past the post voting</h1>
+<p>I will gather my thoughts on the subject</p>
+]]></description>
+      
     </item>
+    
+    
     
     <item>
       <title>First Post</title>
@@ -22,8 +28,16 @@
       <pubDate>Sun, 22 Jan 2023 11:13:50 -0800</pubDate>
       
       <guid>https://blog.regardless.cc/posts/first-post/</guid>
-      <description>People seem to not like first past the post voting I will gather my thoughts on the subject</description>
+      <description><![CDATA[<h1 id="people-seem-to-not-like-first-past-the-post-voting">People seem to not like first past the post voting</h1>
+<p>I will gather my thoughts on the subject</p>
+]]></description>
+      
     </item>
+    
+    
+    
+    
+    
     
   </channel>
 </rss>

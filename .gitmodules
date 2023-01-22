@@ -1,3 +1,9 @@
 [submodule "themes/risotto"]
 	path = themes/risotto
 	url = https://github.com/joeroe/risotto.git
+[submodule "hugo-ficurinia"]
+	path = hugo-ficurinia
+	url = https://gitlab.com/gabmus/hugo-ficurinia
+[submodule "themes/hugo-ficurinia"]
+	path = themes/hugo-ficurinia
+	url = https://gitlab.com/gabmus/hugo-ficurinia
