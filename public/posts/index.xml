@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Less blog, more work</title>
-    <link>http://blog.regardless.cc/</link>
-    <description>Recent content on Less blog, more work</description>
+    <title>Posts on Less blog, more work</title>
+    <link>http://blog.regardless.cc/posts/</link>
+    <description>Recent content in Posts on Less blog, more work</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Jan 2023 11:13:50 -0800</lastBuildDate><atom:link href="http://blog.regardless.cc/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 22 Jan 2023 11:13:50 -0800</lastBuildDate><atom:link href="http://blog.regardless.cc/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First Post</title>
       <link>http://blog.regardless.cc/posts/first-post/</link>
